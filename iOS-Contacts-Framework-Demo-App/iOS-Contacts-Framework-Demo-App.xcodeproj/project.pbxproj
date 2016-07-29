@@ -328,6 +328,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "iOS-Contacts-Framework-Demo-App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "AS.iOS-Contacts-Framework-Demo-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -339,6 +340,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "iOS-Contacts-Framework-Demo-App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "AS.iOS-Contacts-Framework-Demo-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -388,6 +390,7 @@
 				D13BD4471D49014B00B58D75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D13BD4481D49014B00B58D75 /* Build configuration list for PBXNativeTarget "iOS-Contacts-Framework-Demo-AppTests" */ = {
 			isa = XCConfigurationList;
@@ -396,6 +399,7 @@
 				D13BD44A1D49014B00B58D75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
